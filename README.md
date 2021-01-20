@@ -1,2 +1,0 @@
-# agenda
-Ejercicio Agenda
